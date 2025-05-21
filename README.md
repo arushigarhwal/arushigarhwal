@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arushi</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
-<br>
-## 💫 About Me:
+
+
+# 💫 About Me:
 🔭 I’m currently working on a project based on OpenCV<br>🌱 I’m currently learning NLP stuff<br>💬 Ask me about anything<br>💡 Fun Fact: I love turning real-world problems into smart tech solutions — from AI-powered apps to touchless interfaces!
 
 
@@ -17,3 +18,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arushigarhwal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
